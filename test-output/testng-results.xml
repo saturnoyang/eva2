@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12351" started-at="2020-04-13T19:50:03 CLT" finished-at="2020-04-13T19:50:15 CLT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12351" started-at="2020-04-13T19:50:03 CLT" finished-at="2020-04-13T19:50:15 CLT">
+      <class name="test.NavegadorWeb">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:test.NavegadorWeb@15d0c81b]" name="beforeTest" is-config="true" duration-ms="9305" started-at="2020-04-13T19:50:03 CLT" finished-at="2020-04-13T19:50:12 CLT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:test.NavegadorWeb@15d0c81b]" name="f" duration-ms="2259" started-at="2020-04-13T19:50:12 CLT" finished-at="2020-04-13T19:50:14 CLT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.NavegadorWeb@15d0c81b]" name="afterTest" is-config="true" duration-ms="745" started-at="2020-04-13T19:50:14 CLT" finished-at="2020-04-13T19:50:15 CLT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.NavegadorWeb -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

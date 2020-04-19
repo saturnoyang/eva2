@@ -1,0 +1,5 @@
+test\conexionTest.class
+TestRunner\Runner.class
+StepDefinition\Steps.class
+test\NavegadorTest.class
+test\NavegadorWeb.class
